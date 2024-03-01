@@ -1,6 +1,9 @@
 This is the tests/files directory of the https://github.com/tukaani-project/xz
 repository. Its files are in the public domain.
 
+It also includes testsuite/*.lz files from the https://www.nongnu.org/lzip/
+project, placed in this repository under lzip-testsuite directory.
+
 The original README follows below.
 
 ---
