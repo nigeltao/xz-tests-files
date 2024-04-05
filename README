@@ -4,6 +4,8 @@ repository. Its files are in the public domain.
 It also includes testsuite/*.lz files from the https://www.nongnu.org/lzip/
 project, placed in this repository under lzip-testsuite directory.
 
+See XZ-BACKDOOR-NOTE.md for information about the 2024 Xz backdoor.
+
 The original README follows below.
 
 ---
